@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AngularCliAddDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AntDuplicateTargetsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AntMissingPropertiesFileInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AntResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ArgNamesErrorsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ArgNamesWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AroundAdviceStyleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DeclareParentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="EmptyEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JpaAttributeMemberSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaAttributeTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaConfigDomFacetInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JpaDataSourceORMDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaDataSourceORMInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaEntityListenerInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaEntityListenerWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JpaMissingIdInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaModelReferenceInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaORMDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaObjectClassSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaQlInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaQueryApiInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PointcutMethodStyleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RMissingPackage" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RTypeChecker" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RUnusedParameter" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RUnusedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SbtReplaceProjectWithProjectIn" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
